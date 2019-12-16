@@ -1,6 +1,6 @@
 # Flood-Prediction-in-Malawi--Zindi-Competition
 ## Starter Code for Flood Prediction in Malawi
-### Author: [Linkedin - Darius Moruri](www.linkedin.com/in/dariusmoruri)
+### Author: [Linkedin - Darius Moruri](https://www.linkedin.com/in/dariusmoruri/)
 
 
 ---
