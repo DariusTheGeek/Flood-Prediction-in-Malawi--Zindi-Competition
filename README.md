@@ -1,6 +1,6 @@
 # Flood-Prediction-in-Malawi--Zindi-Competition
 ## Starter Code for Flood Prediction in Malawi
-### Author: [Linkedin - Darius Moruri](https://www.linkedin.com/in/dariusmoruri/)
+### Author: [Darius Moruri](https://www.linkedin.com/in/dariusmoruri/)
 
 
 ---
@@ -16,7 +16,7 @@
     - Sourcing for more data
     - Documentation and Presentation
 
-*Despite its basic approach, this starter code yieldied a satisfacatory RMSE of **0.11866** and a **top 15 ranking** (as at the time of writing) in the [public leaderboard](https://zindi.africa/competitions/sendy-logistics-challenge/leaderboard)*
+*Despite its basic approach, this starter code yieldied a satisfacatory RMSE of **0.11866** and a **top 15 ranking** (as at the time of writing) in the [public leaderboard](https://zindi.africa/competitions/2030-vision-flood-prediction-in-malawi/leaderboard)*
 
 ## Context
 On 14 March 2019, tropical Cyclone Idai made landfall at the port of Beira, Mozambique, before moving across the region. Millions of people in Malawi, Mozambique and Zimbabwe have been affected by what is the worst natural disaster to hit southern Africa in at least two decades.
